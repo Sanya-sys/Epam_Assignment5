@@ -1,0 +1,8 @@
+02/10/2020 22:40:18.29	Information	Unable to read file DataMartConfig.json. Exception: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+02/10/2020 22:40:18.43	Information	HResult: -2146233088
+Message: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean) + 0x2d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration() + 0xfb
+
+02/10/2020 22:40:18.61	Error	LPA creation failed with no modem found.
+02/10/2020 22:40:18.61	Error	Modem not found
